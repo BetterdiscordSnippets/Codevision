@@ -1,4 +1,4 @@
-# [Codevision - Clearvision Codeblock Theme](https://github.com/DiscordAddons/Codevision)
+# [Codevision](https://github.com/DiscordAddons/Codevision) - Clearvision Codeblock Theme
 A codeblock theme that changes the appearance of Discord's standard codeblocks using colors similar to [Clearvision](https://github.com/ClearVision/ClearVision-v6)'s colors and background image with addition colors of course.
 
 # Picture
